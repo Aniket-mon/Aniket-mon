@@ -1,4 +1,8 @@
-<img align ="right" src="https://visitor-badge.laobi.icu/badge?page_id=Aniket-mon.Aniket-mon" />
+
+<a href="https://github.com/aniket-mon/github-profile-views-counter">
+    <img align ="right" src="https://komarev.com/ghpvc/?username=aniket-mon&style=plastic&color=brightgreen&label=Visitors">
+</a>
+
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Namashkar+😁;+I+am+Aniket+Bhattacharya!;" />
@@ -8,7 +12,7 @@
 <h3 align="center">A passionate Cybersecurity aspirant from India</h3>
 
 <div align="center"> 
-      <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
+      <a href="https://www.linkedin.com/in/aniket-bhattacharya-b6938a200" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://aniket-mon.github.io/Personal-Portfolio-Website" target="_blank">
@@ -55,6 +59,6 @@ I come from Lucknow, a beautiful town known for its delicacies. I love cybersecu
 
 <hr/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aniket-mon" alt="aniket-mon" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aniket-mon" alt="aniket-mon" /></a> </p>
 
 
