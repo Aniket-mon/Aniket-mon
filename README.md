@@ -40,7 +40,7 @@ I come from Lucknow, a beautiful town known for its delicacies. I love cybersecu
 <div align="center">
     <img src="https://skillicons.dev/icons?i=vscode,git,github,linux,bash,kali,windows,powershell&perline=8" /><br>
     <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,typescript,express,mongodb,mysql&perline=8" /><br>
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,aws,gcp" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,aws,gcp,obsidian" />
 </div>
 
 <br/>
