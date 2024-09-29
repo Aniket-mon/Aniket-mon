@@ -1,11 +1,11 @@
-<h1 align="center">Namashkar, I am Aniket Bhattacharya</h1>
-<h3 align="center">A passionate Cybersecurity aspirant from India</h3>
+<img align ="right" src="https://visitor-badge.laobi.icu/badge?page_id=Aniket-mon.Aniket-mon" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aniket-mon&label=Profile%20views&color=0e75b6&style=flat" alt="aniket-mon" /> </p>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Namashkar+😁;+I+am+Aniket+Bhattacharya!;" />
+</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aniket-mon" alt="aniket-mon" /></a> </p>
 
----
+<h3 align="center">A passionate Cybersecurity aspirant from India 🇮🇳</h3>
 
 I come from Lucknow, a beautiful town known for its delicacies. I love cybersecurity and I want to pursue a career in the same. I am very passionate about technology and how they shape our lives. I am fond of public speaking, table tennis and brainstorming ideas. My goal in the bigger picture is to serve and contribute to my country in my own way. I also love to meet new people (*better people*) and learn from them. I spend my weekends going to Tech events || Capture the Flags || Hackathons.
 
@@ -35,3 +35,5 @@ I come from Lucknow, a beautiful town known for its delicacies. I love cybersecu
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aniket-mon&show_icons=true&locale=en" alt="aniket-mon" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aniket-mon&" alt="aniket-mon" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aniket-mon" alt="aniket-mon" /></a> </p>
+
