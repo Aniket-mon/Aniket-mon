@@ -24,7 +24,7 @@ I come from Lucknow, a beautiful town known for its delicacies. I love cybersecu
 
 - 🔭 I’m currently working on **Authorizz - An application which lets users login and register through their email or Google account**
 
-- 🌱 I’m currently learning **Metasploit Framework && AuthO (in MERN)**
+- 🌱 I’m currently learning **Linux Fundamentals && Assets, Threats, and Vulnerabilities from the Google Cybersecurrity Course**
 
 - 💬 You can ask me about **Linux and importance of tech events**
 
