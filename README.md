@@ -22,7 +22,9 @@
 
 I come from Lucknow, a beautiful town known for its delicacies. I love cybersecurity and I want to pursue a career in the same. I am very passionate about technology and how they shape our lives. I am fond of public speaking, table tennis and brainstorming ideas. My goal in the bigger picture is to serve and contribute to my country in my own way. I also love to meet new people (*better people*) and learn from them. I spend my weekends going to Tech events || Capture the Flags || Hackathons.
 
-- 🔭 I’m currently working on **Authorizz - An application which lets users login and register through their email or Google account**
+- 🔭 I was working on **Authorizz - An application which lets users login and register through their email or Google account**
+
+- 🔭 I’m currently working on **Networking Fundamentals && Linux Fundamentals**
 
 - 🌱 I’m currently learning **Linux Fundamentals && Assets, Threats, and Vulnerabilities from the Google Cybersecurrity Course**
 
