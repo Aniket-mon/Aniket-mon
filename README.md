@@ -28,7 +28,7 @@ I come from Lucknow, a beautiful town known for its delicacies. I love cybersecu
 
 - 🌱 I’m currently learning **Sound the Alarm: Detection and Response from the Google Cybersecurrity Course**
 
-- 💬 You can ask me about **anything, I am curoius to leran new things**
+- 💬 You can ask me about **anything, I am curoius to learn new things**
 
 - 📫 Reach me through **aniket.bhattacharya1729@gmail.com**
 
