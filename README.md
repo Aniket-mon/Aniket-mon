@@ -22,13 +22,13 @@
 
 I come from Lucknow, a beautiful town known for its delicacies. I love cybersecurity and I want to pursue a career in the same. I am very passionate about technology and how they shape our lives. I am fond of public speaking, table tennis and brainstorming ideas. My goal in the bigger picture is to serve and contribute to my country in my own way. I also love to meet new people (*better people*) and learn from them. I spend my weekends going to Tech events || Capture the Flags || Hackathons.
 
-- 🔭 I was working on **Authorizz - An application which lets users login and register through their email or Google account**
+- 🔭 I am working on **Green Lock - a next-generation browser extension that protects your WhatsApp Web downloads with advanced AI-powered malware detection and real-time security checks.**
 
 - 🔭 I’m currently working on **Networking Fundamentals && Linux Fundamentals**
 
-- 🌱 I’m currently learning **Linux Fundamentals && Assets, Threats, and Vulnerabilities from the Google Cybersecurrity Course**
+- 🌱 I’m currently learning **Sound the Alarm: Detection and Response from the Google Cybersecurrity Course**
 
-- 💬 You can ask me about **Linux and importance of tech events**
+- 💬 You can ask me about **anything, I am curoius to leran new things**
 
 - 📫 Reach me through **aniket.bhattacharya1729@gmail.com**
 
